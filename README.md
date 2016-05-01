@@ -2,10 +2,10 @@
 Lifion Developer - Feedback Application
 
 File Names :
-Wireframes :
+Wireframes (Balsamiq Mockups 3):
   (1) Feedback_Application.bmpr
   (2)	Feedback_Application.pdf
- , ERD : 
+ , ERD (Google Drawings): 
   (1)	ERD.pdf
 
 
