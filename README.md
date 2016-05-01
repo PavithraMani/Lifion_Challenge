@@ -2,10 +2,10 @@
 Lifion Developer - Feedback Application
 
 File Names :
-Wireframes
+Wireframes :
   (1) Feedback_Application.bmpr
   (2)	Feedback_Application.pdf
- , ERD
+ , ERD : 
   (1)	ERD.pdf
 
 
